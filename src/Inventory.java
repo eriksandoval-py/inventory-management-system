@@ -12,4 +12,5 @@ public class Inventory {
     // This will be a hashmap of item objects and their quantities.
     public Inventory() {
         
+    }
 }
