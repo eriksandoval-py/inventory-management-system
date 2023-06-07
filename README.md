@@ -1,18 +1,5 @@
-## Getting Started
+# Inventory Management System
+## Author: [Erik Sandoval]
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Purpose: 
+[This app will serve as an inventory management system. It will keep track of which items are in stock, and which items are out of stock by using a database. The app will use a GUI to display the items in the database, and allow the user to add, remove, and update items in the database. The app will also allow the user to search for items in the database. The app will also allow the user to sort the items in the database by name, price, and quantity as well as filter the items in the same way. The app will be comprised of these classes: App.java, Inventory.java, Item.java, Observer.java (interface), Customer.java, Employee.java (interface), Manager.java,LeadTechnician, Technician, Store.java, Order.java..... (more to come)]
