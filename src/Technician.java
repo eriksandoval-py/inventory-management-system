@@ -5,6 +5,12 @@ public class Technician implements Employee, Observer{
             // TODO Auto-generated method stub
             
         }
+        @Override
+        public void showEmployeeDetails() {
+            // TODO Auto-generated method stub
+            
+        }
+        
 
     
 }

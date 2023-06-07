@@ -5,5 +5,10 @@ public class Manager implements Employee, Observer{
         // TODO Auto-generated method stub
         
     }
+    @Override
+    public void showEmployeeDetails() {
+        // TODO Auto-generated method stub
+        
+    }
     
 }
