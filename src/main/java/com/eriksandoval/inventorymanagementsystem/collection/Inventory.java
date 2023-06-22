@@ -1,4 +1,4 @@
-package com.eriksandoval.inventorymanagementsystem;
+package com.eriksandoval.inventorymanagementsystem.collection;
 
 import java.util.HashMap;
 
