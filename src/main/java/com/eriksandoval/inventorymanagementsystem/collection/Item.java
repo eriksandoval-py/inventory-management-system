@@ -1,5 +1,8 @@
 package com.eriksandoval.inventorymanagementsystem.collection;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Item {
     private String name;
     private String description;
@@ -85,5 +88,8 @@ public class Item {
     }
     public void setSubcategory() {
         this.subcategory = subcategory;
+    }
+    public void show() {
+        System.out.println("Showing item");
     }
 }
