@@ -1,5 +1,8 @@
 package com.eriksandoval.inventorymanagementsystem.collection;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Manager implements Employee, Observer{
 
     @Override

@@ -2,6 +2,9 @@ package com.eriksandoval.inventorymanagementsystem.collection;
 
 import java.util.HashMap;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Inventory {
 
     // Inventory class will utilize a hashmap to store the item objects, and their quantities. 

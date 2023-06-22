@@ -1,8 +1,10 @@
 package com.eriksandoval.inventorymanagementsystem.collection;
 
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component
+@Scope(value="prototype")
 public class Item {
     private String name;
     private String description;
@@ -16,6 +18,11 @@ public class Item {
     private int height;
     private int category;
     private int subcategory;
+
+    public Item() {
+        super();
+        System.out.println("Item created");
+    }
 
     public String getName() {
         return name;
