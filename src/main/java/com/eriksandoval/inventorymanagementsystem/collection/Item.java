@@ -80,4 +80,10 @@ public class Item {
     public void setCategory() {
         this.category = category;
     }
+    public int getSubcategory() {
+        return subcategory;
+    }
+    public void setSubcategory() {
+        this.subcategory = subcategory;
+    }
 }
