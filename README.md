@@ -1,5 +1,5 @@
 # Inventory Management System
-## Author: [Erik Sandoval]
+## Authors: Erik Sandoval and Noah Wright
 
 ### Purpose: 
-[This app will serve as an inventory management system. It will keep track of which items are in stock, and which items are out of stock by using a database. The app will use a GUI to display the items in the database, and allow the user to add, remove, and update items in the database. The app will also allow the user to search for items in the database. The app will also allow the user to sort the items in the database by name, price, and quantity as well as filter the items in the same way. The app will be comprised of these classes: App.java, Inventory.java, Item.java, Observer.java (interface), Customer.java, Employee.java (interface), Manager.java,LeadTechnician, Technician, Store.java, Order.java..... (more to come)]
+This app will serve as an inventory management system for electronics repair stores. It will utilize React, Spring Boot and Java, and MongoDB. The app software will follow an object oriented design philosophy and implement the observer pattern in order to support customer and employee viewing. Employee viewing will also be subcategorized into Tech, Lead, Manager, and Admin. 
