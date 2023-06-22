@@ -6,6 +6,10 @@ bin-release/
 
 # Other files and folders
 .settings/
+.vscode/
+.idea/
+.DS_Store
+
 
 # Executables
 *.swf
@@ -17,6 +21,3 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 
-.vscode/
-.idea/
-.DS_Store
