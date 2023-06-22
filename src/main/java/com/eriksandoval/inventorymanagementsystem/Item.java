@@ -1,3 +1,5 @@
+package com.eriksandoval.inventorymanagementsystem;
+
 public class Item {
     private String name;
     private String description;

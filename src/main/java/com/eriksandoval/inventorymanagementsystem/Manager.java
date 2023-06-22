@@ -1,3 +1,5 @@
+package com.eriksandoval.inventorymanagementsystem;
+
 public class Manager implements Employee, Observer{
 
     @Override
