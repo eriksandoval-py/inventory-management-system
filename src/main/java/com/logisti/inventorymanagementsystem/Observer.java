@@ -1,4 +1,4 @@
-package com.logisti.inventorymanagementsystem.collection;
+package com.logisti.inventorymanagementsystem;
 
 public interface Observer {
     public void update();

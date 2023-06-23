@@ -4,8 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
-import com.logisti.inventorymanagementsystem.collection.Item;
-
 @SpringBootApplication
 public class InventoryManagementSystemApplication {
 

@@ -1,4 +1,4 @@
-package com.logisti.inventorymanagementsystem.collection;
+package com.logisti.inventorymanagementsystem;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
